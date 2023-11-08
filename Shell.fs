@@ -38,7 +38,7 @@ module Shell =
             Border.create [
                 Grid.row 0
                 Border.background "#323232"
-                Border.borderThickness 0.79
+                Border.borderThickness 0.75
                 Border.borderBrush "#838383"
                 Border.cornerRadius 0 
                 Border.child (
